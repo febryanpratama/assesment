@@ -12,7 +12,9 @@ Cara menginstall.
 
 Pada Aplikasi ini telah ada data dummy untuk akses login pada masing-masing rolenya
 - Role Owner  = owner@owner.com | 123456
+    - Role Owner memiliki akses untuk membuat User dan Role 
 - Role Staff  = staff@staff.com | 123456
+    - Role Staff memiliki akses untuk membuat data product 
 
 
 Link Url Demo "`https://assesment.febryancaesarpratama.com/`"
